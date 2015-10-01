@@ -8,9 +8,4 @@ public class Helloworld {
 		System.out.println("Hello World!!");
 
 	}
-
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> branch 'master' of https://github.com/mggod/mobileprogramming.git

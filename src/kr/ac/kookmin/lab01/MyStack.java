@@ -72,9 +72,4 @@ public class MyStack {
 		st.displayStack();
 		
 	}
-
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> branch 'master' of https://github.com/mggod/mobileprogramming.git
