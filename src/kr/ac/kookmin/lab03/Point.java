@@ -1,7 +1,6 @@
 package kr.ac.kookmin.lab03;
 
 public class Point {
-
 	private int x;
 	private int y;
 	
