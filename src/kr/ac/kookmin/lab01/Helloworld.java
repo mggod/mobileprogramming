@@ -9,4 +9,8 @@ public class Helloworld {
 
 	}
 
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> branch 'master' of https://github.com/mggod/mobileprogramming.git

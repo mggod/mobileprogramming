@@ -73,4 +73,8 @@ public class MyStack {
 		
 	}
 
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> branch 'master' of https://github.com/mggod/mobileprogramming.git
