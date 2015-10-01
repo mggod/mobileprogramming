@@ -64,4 +64,5 @@ public class Pet extends Animal {
 	public double getWeight() {
 		return weight;
 	}
+	
 }
